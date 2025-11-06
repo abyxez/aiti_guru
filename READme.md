@@ -6,7 +6,7 @@
 
 ### Запуск для Linux/macOS( на Windows с помощью Git Bash):
 ```bash
-git clone
+git clone git@github.com:abyxez/aiti_guru.git
 cd aiti_guru/
 make all
 ```
